@@ -1,0 +1,13 @@
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\bin\Debug\netcoreapp3.1\BattleShips.exe
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\bin\Debug\netcoreapp3.1\BattleShips.deps.json
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\bin\Debug\netcoreapp3.1\BattleShips.runtimeconfig.json
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\bin\Debug\netcoreapp3.1\BattleShips.runtimeconfig.dev.json
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\bin\Debug\netcoreapp3.1\BattleShips.dll
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\bin\Debug\netcoreapp3.1\BattleShips.pdb
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\obj\Debug\netcoreapp3.1\BattleShips.csprojAssemblyReference.cache
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\obj\Debug\netcoreapp3.1\BattleShips.AssemblyInfoInputs.cache
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\obj\Debug\netcoreapp3.1\BattleShips.AssemblyInfo.cs
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\obj\Debug\netcoreapp3.1\BattleShips.csproj.CoreCompileInputs.cache
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\obj\Debug\netcoreapp3.1\BattleShips.dll
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\obj\Debug\netcoreapp3.1\BattleShips.pdb
+F:\Users\P Shepherd\Documents\Scripts\BattleShips\BattleShips\obj\Debug\netcoreapp3.1\BattleShips.genruntimeconfig.cache
