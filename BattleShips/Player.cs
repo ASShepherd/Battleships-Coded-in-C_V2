@@ -172,5 +172,31 @@ namespace BattleShips
                 
             }
         }
+        public void TestShips()
+        {
+            List<Block> FoundShips = PlayBoard.Blocks.FindAll(x => x.ShipType == EnumShipType.Destroyer);
+            if (FoundShips.Count == 0)
+            {
+                Console.WriteLine("TestShips in the Player class failed");
+            }
+            else
+            {
+                FoundShips.ForEach(i => Console.Write("{0}\t", i.Coordinates.Row + " " + i.Coordinates.Column));
+            }
+        }
+
+        public void TestPlayspace()
+        {
+            if (PlayBoard.Blocks.Count == 100)
+            {
+            Console.Write("TestPlaySpace in player class initialised all 100 squares successfully");
+            }
+            else
+            {
+                Console.Write("TestPlaySpace in player class failed to initialise all 100 squares successfully");
+            }
+
+
+        }
     }
 }
